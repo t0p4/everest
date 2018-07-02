@@ -9,6 +9,6 @@ branches[FStar]=master
 hashes[MLCrypto]=048fd71bf111e5020e6f47d884741d595cdb9ab3
 branches[MLCrypto]=master
 hashes[hacl-star]=a26518492ba2452f8c07f4a6391121b394574125
-branches[hacl-star]=fstar-master
+branches[hacl-star]=icefall-master
 hashes[kremlin]=9ddb7b7086a0f5af7f4d3ef49eaa3c9845d3f11c
 branches[kremlin]=master
